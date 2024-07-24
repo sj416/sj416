@@ -2,7 +2,6 @@
 
 <!--
 **sj416/sj416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhtmdwls12)](https://solved.ac/rhtmdwls12)
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
